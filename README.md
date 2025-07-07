@@ -51,4 +51,4 @@ All steps are shown **live**:
 All source code is here.  
 Any build errors or fixes are shown live in the video.
 
-**Thanks for reviewing!**
+
